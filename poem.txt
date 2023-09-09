@@ -4,3 +4,4 @@ this is the third line of poem
 this is the fourth line of poem
 this is the fifth line of poem
 this is the sixth line of poem
+this is the seventh line of poem
