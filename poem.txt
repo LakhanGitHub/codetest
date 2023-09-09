@@ -1,2 +1,2 @@
 this is the first line of poem
-ths is the secon line of poem
+ths is the second line of poem
